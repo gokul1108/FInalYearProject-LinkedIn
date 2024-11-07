@@ -6,8 +6,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 # Replace with your LinkedIn credentials
-username = 'lakshmanangokul2q@gmail.com'
-password = 'gokulgokul1108@'
+username = ''
+password = ''
 
 # Set up Chrome WebDriver with additional options
 options = webdriver.ChromeOptions()
